@@ -95,7 +95,6 @@ for f in *.txt; do aspell check $f; done
 
 
 echo "Spell checking complete."
-
 ```
 
 The bash script asks users for a folder, prints each file name in the folder and then a sorted list of misspelled words together with the number of times they occur then helps the user correct the listed misspelled words in each file.
@@ -118,4 +117,4 @@ The script will ask you for a folder or directory name like `Documents/` , scan 
 
 ---
 
-That's how you can automate file spell-checks with a bash script. If you find it useful please share this article.
+Here's how you can automate file spell-checks with a bash script. If you find it useful please share this article.
