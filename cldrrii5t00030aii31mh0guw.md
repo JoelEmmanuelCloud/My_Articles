@@ -1,6 +1,6 @@
 # Understanding AWS 3-Tier Cloud Architecture and Design.
 
-In this article, we're going to learn the 3 tier system design of architecture. I'm also going to go over some of the questions you can expect during your interview.
+In this article, we're going to learn the 3 tier system design of a cloud architecture. I'm also going to go over some of the questions you can expect during your interview.
 
 So first things first, **why is it called three tiers**?
 
@@ -32,7 +32,6 @@ So going back to our three tiers, you can run your web server on virtual machine
 
 And both of these tools will have some IP address.
 
-###   
 **Elastic Load Balancing (ELB)**
 
 So your interviewer might ask you:
